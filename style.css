@@ -1,4 +1,22 @@
+
+body {
+	background: #CCCCCC
+}
+
+h1 {
+	text-align: center
+}
+
+
 p {
-text-align: center;
-background: #CCCCCC
+text-align: center
+
+}
+
+#missao {
+	font-size: 24px
+}
+
+em strong {
+	color: red
 }
